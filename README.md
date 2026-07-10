@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/sudetonge">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=570&text=Hello!%20I'm%20Sude" alt="Hello! I&#39;m Sude" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ff9bce&fontSize=54&height=90&width=570&text=Hello!%20I'm%20Sude" alt="Hello! I&#39;m Sude" />
   </a>
 </p>
 
