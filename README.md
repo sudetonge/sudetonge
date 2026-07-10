@@ -12,8 +12,7 @@
 
 I am a 4th year Computer Engineering student based in Antalya, Turkey. I am highly passionate about full-stack development and building software that solves real world problems.
 
-🔭 &nbsp;I'm currently working on **🚀 Developing an AI-Supported Docker Container Management Dashboard using Spring Boot and React.**  
-🌱 &nbsp;I'm currently learning **Java SpringBoat**
+🔭 &nbsp;I'm currently working on **🚀 Developing an AI-Supported Docker Container Management Dashboard using Spring Boot and React.** 
 
 ### 🛠️ Tech Stack
 
