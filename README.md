@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there! 👋 I'm Sude
 
-<!--
-**sudetonge/sudetonge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 4th year Computer Engineering student based in Antalya, Turkey. I am highly passionate about full-stack development and building software that solves real world problems. 
 
-Here are some ideas to get you started:
+### 👩‍💻 What I'm Doing Right Now
+* 🚀 Developing an **AI-Supported Docker Container Management Dashboard** using Spring Boot and React.
+* 💻 Building web applications and continuously improving my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+* **Frontend:** React (CRA), JavaScript, HTML5, CSS3
+* **Backend:** Java (Spring Boot), PHP (Laravel)
+* **Databases:** PostgreSQL
+* **DevOps & Architecture:** Docker, Microservices, Git
+* **Low-Level:** Assembly Language
+
+### ⚡ Beyond the Code
+When I step away from the keyboard, you can probably find me:
+* 🚴‍♀️ Cycling around the city or heading to the beach.
+* ♟️ Analyzing my next move on the chess board.
+* 🎨 Experimenting with generative AI to create digital and pixel art.
+
+### 📫 Let's Connect!
+Feel free to reach out if you want to talk about tech, chess tactics, or just want to say hi!
+
